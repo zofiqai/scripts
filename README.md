@@ -1,2 +1,2 @@
-# ncs
-Script Repository for N-Central Scripts &amp; Automations
+# zofiQ Script Repo
+Public repository for scripts &amp; automations.
